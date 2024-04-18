@@ -1,3 +1,20 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "bb771768-4339-4cb8-8f98-a713b64d71d7",
+      "name": "salomjon",
+      "lastName": "234",
+      "phone": "3425",
+      "active": true,
+      "count": "2"
+    },
+    {
+      "id": "b2e0ce5d-bba3-4549-940f-607f2137bdd8",
+      "name": "bekali",
+      "lastName": "gh",
+      "phone": "3564",
+      "active": true,
+      "count": "3546"
+    }
+  ]
 }
